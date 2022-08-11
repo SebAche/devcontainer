@@ -1,5 +1,7 @@
 {
     "type": "project",
+    "name": "saybash/devcontainer",
+    "description": "Personal project to familiarise myself with dev containers",
     "license": "proprietary",
     "minimum-stability": "stable",
     "prefer-stable": true,
