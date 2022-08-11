@@ -13,6 +13,7 @@ class PersonController extends AbstractController
     #[Route('/person', name: 'app_person')]
     public function index(): Response
     {
+        // TODO : add crud
         return $this->render('person/index.html.twig', [
             'controller_name' => 'PersonController',
         ]);
